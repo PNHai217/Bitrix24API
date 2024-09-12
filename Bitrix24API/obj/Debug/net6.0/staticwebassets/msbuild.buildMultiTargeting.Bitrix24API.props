@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bitrix24API.props" />
+</Project>

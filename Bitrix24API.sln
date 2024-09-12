@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitrix24API", "Bitrix24API\Bitrix24API.csproj", "{13B36E92-DDBF-4340-97C3-A2C96E5C7003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B36E92-DDBF-4340-97C3-A2C96E5C7003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B36E92-DDBF-4340-97C3-A2C96E5C7003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B36E92-DDBF-4340-97C3-A2C96E5C7003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B36E92-DDBF-4340-97C3-A2C96E5C7003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059C7DF0-7D5F-4DBD-A6FB-A1A477533522}
+	EndGlobalSection
+EndGlobal
